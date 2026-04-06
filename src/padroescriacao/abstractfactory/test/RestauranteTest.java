@@ -1,6 +1,12 @@
-package padroescriacao.abstractfactory;
+package padroescriacao.abstractfactory.test;
 
 import org.junit.jupiter.api.Test;
+
+import padroescriacao.abstractfactory.app.Restaurante;
+import padroescriacao.abstractfactory.factory.FabricaAbstrata;
+import padroescriacao.abstractfactory.factory.FabricaGourmet;
+import padroescriacao.abstractfactory.factory.FabricaSimples;
+
 import static org.junit.jupiter.api.Assertions.*;
 
 class RestauranteTest {

@@ -1,4 +1,4 @@
-package padroescriacao.abstractfactory;
+package padroescriacao.abstractfactory.produto.notafiscal;
 
 public class NotaFiscalGourmet implements NotaFiscal {
 

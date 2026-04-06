@@ -1,4 +1,8 @@
-package padroescriacao.abstractfactory;
+package padroescriacao.abstractfactory.app;
+
+import padroescriacao.abstractfactory.factory.FabricaAbstrata;
+import padroescriacao.abstractfactory.produto.notafiscal.NotaFiscal;
+import padroescriacao.abstractfactory.produto.pedido.Pedido;
 
 public class Restaurante {
 

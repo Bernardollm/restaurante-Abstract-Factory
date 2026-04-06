@@ -1,4 +1,4 @@
-package padroescriacao.abstractfactory;
+package padroescriacao.abstractfactory.produto.pedido;
 
 public class PedidoGourmet implements Pedido {
 
